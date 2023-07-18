@@ -14,3 +14,5 @@ Dataset file is accessible in repository
     - "Q5 - Favourite Programming Language"
     - "Q11 - Which Country do you live in"
   - created "Average Salary" column
+- Vizualization
+  - Price by Zipcode
