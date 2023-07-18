@@ -16,3 +16,6 @@ Dataset file is accessible in repository
   - created "Average Salary" column
 - Vizualization
   - Price by Zipcode
+
+ ![Data Professional Survey 1](https://github.com/WiktorPaprocki/Power-BI-Vizualization/assets/125204368/4e01803a-1e31-4ddb-bc10-c2f4f14f794e)
+
